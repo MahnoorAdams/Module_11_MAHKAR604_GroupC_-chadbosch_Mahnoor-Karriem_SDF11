@@ -1,3 +1,6 @@
+
+everything is in the assests file
+
 # Installation
 
 ```
@@ -12,7 +15,6 @@ npm run build
 
 # Compile Tailwind CSS minified
 npm run build-minify
-
 ```
 
 # Presentation Talking Points and Presentation Slide Template
